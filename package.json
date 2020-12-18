@@ -7,6 +7,9 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "@gridsome/source-strapi": "^0.2.0",
+    "bootstrap": "^4.5.3",
     "gridsome": "^0.7.0"
   }
 }
